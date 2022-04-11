@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hey there, I am [AkaGiant](https://github.com/AkaGiant) 👋
 
-<!--
-**AkaGiant/AkaGiant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![AkaGiant](https://github-readme-stats.vercel.app/api?username=AkaGiant&show_icons=true&theme=dracula&count_private=true)](https://github.com/AkaGiant)<br/>
 
-Here are some ideas to get you started:
+### 🤵 - About me 
+- > I'm a Java/JavaScript Developer focusing on Minecraft and Discord Development.
+- > A Majority of the work I have done is closed work but I'm currently working on expanding my public facing work within my portfolio!
+- > I'm currently working on my Bachelors Degree in Computer Science focusing on Games Programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+
+### 📖 - Skills
+- Java Development (SpigotAPI)
+- JavaScript (Node.js)
+- Server Administration/Management
+- Configurations
+
+------------
+
+### ⌨️ - Projects
+- > **[PlanetaryGens](https://discord.gg/jFXYj37gJV "PlanetaryGens")**: Server Owner & Lead Developer
+- > **[ChinaGens](https://discord.gg/kDXWdcBqGs "ChinaGens")**: Lead Developer
+- > **[HorusNetwork](https://discord.gg/APKJrzQGEW "HorusNetwork")**: Developer
+- > **[ArcaneServices](https://discord.gg/Jgx8kr2TfD "ArcaneServices")**: Freelancer 
+
+------------
