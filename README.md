@@ -8,6 +8,9 @@
 - > I'm currently working on my Bachelors Degree in Computer Science focusing on Games Programming.
 
 ------------
+### 📖 - **[Portfolio](https://github.com/AkaGiant/Portfolio "Portfolio")**
+- > View my personal portfolio here!
+------------
 
 ### 📖 - Skills
 - Java Development (SpigotAPI)
