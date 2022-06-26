@@ -21,9 +21,8 @@
 ------------
 
 ### ⌨️ - Projects
-- > **[PlanetaryGens](https://discord.gg/jFXYj37gJV "PlanetaryGens")**: Server Owner & Lead Developer
 - > **[ChinaGens](https://discord.gg/kDXWdcBqGs "ChinaGens")**: Lead Developer
 - > **[HorusNetwork](https://discord.gg/APKJrzQGEW "HorusNetwork")**: Developer
-- > **[ArcaneServices](https://discord.gg/Jgx8kr2TfD "ArcaneServices")**: Freelancer 
+- > **[ArcaneServices](https://discord.gg/Jgx8kr2TfD "ArcaneServices")**: Freelancer & Applications Manager.
 
 ------------
