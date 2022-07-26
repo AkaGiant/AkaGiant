@@ -26,6 +26,4 @@
 - > **[FoliumConstruct](https://discord.gg/xE4uRDa3Qz "FoliumConstruct")**: Freelancer.
 - > **[ChinaGens](https://discord.gg/kDXWdcBqGs "ChinaGens")**: Lead Developer
 
-
-https://discord.gg/sfNqewXKye
 ------------
