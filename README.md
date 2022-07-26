@@ -21,8 +21,11 @@
 ------------
 
 ### ⌨️ - Projects
-- > **[ChinaGens](https://discord.gg/kDXWdcBqGs "ChinaGens")**: Lead Developer
-- > **[HorusNetwork](https://discord.gg/APKJrzQGEW "HorusNetwork")**: Developer
 - > **[ArcaneServices](https://discord.gg/Jgx8kr2TfD "ArcaneServices")**: Freelancer & Applications Manager.
+- > **[DreamFire Development](https://discord.gg/xE4uRDa3Qz "DreamFire Development")**: Freelancer.
+- > **[FoliumConstruct](https://discord.gg/xE4uRDa3Qz "FoliumConstruct")**: Freelancer.
+- > **[ChinaGens](https://discord.gg/kDXWdcBqGs "ChinaGens")**: Lead Developer
 
+
+https://discord.gg/sfNqewXKye
 ------------
