@@ -1,5 +1,4 @@
-## Hey there, I am [AkaGiant](https://github.com/AkaGiant) 👋 ![](https://komarev.com/ghpvc/?AkaGiant&style=for-the-badge)
-
+## Hey there, I am [AkaGiant](https://github.com/AkaGiant) 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AkaGiant)
 
 [![AkaGiant](https://github-readme-stats.vercel.app/api?username=AkaGiant&show_icons=true&theme=dracula&count_private=true)](https://github.com/AkaGiant)<br/>
 
