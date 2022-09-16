@@ -10,6 +10,7 @@
 ------------
 ### 📖 - **[Portfolio](https://github.com/AkaGiant/Portfolio "Portfolio")**
 - > View my personal portfolio here!
+- > It's still under rather heavy construction, if you have any tips on how to make it better, please contact me!
 ------------
 
 ### 📖 - Skills
@@ -22,8 +23,6 @@
 
 ### ⌨️ - Projects
 - > **[ArcaneServices](https://discord.gg/Jgx8kr2TfD "ArcaneServices")**: Freelancer & Applications Manager.
-- > **[DreamFire Development](https://discord.gg/xE4uRDa3Qz "DreamFire Development")**: Freelancer.
-- > **[FoliumConstruct](https://discord.gg/xE4uRDa3Qz "FoliumConstruct")**: Freelancer.
 - > **[ChinaGens](https://discord.gg/kDXWdcBqGs "ChinaGens")**: Lead Developer
 
 ------------
