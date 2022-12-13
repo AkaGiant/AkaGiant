@@ -16,8 +16,6 @@
 ### 📖 - Skills
 - Java Development (SpigotAPI)
 - JavaScript (Node.js)
-- Server Administration/Management
-- Configurations
 
 ------------
 
